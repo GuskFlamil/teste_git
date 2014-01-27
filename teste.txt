@@ -1,0 +1,3 @@
+Finalmente como achei jeito de usar pull para pegar arquivos no repositorio
+
+
